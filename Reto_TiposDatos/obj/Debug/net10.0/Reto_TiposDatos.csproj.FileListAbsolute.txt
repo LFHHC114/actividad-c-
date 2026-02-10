@@ -1,0 +1,15 @@
+/workspaces/actividad-c-/Reto_TiposDatos/bin/Debug/net10.0/Reto_TiposDatos
+/workspaces/actividad-c-/Reto_TiposDatos/bin/Debug/net10.0/Reto_TiposDatos.deps.json
+/workspaces/actividad-c-/Reto_TiposDatos/bin/Debug/net10.0/Reto_TiposDatos.runtimeconfig.json
+/workspaces/actividad-c-/Reto_TiposDatos/bin/Debug/net10.0/Reto_TiposDatos.dll
+/workspaces/actividad-c-/Reto_TiposDatos/bin/Debug/net10.0/Reto_TiposDatos.pdb
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.AssemblyInfoInputs.cache
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.AssemblyInfo.cs
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.csproj.CoreCompileInputs.cache
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.sourcelink.json
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.dll
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/refint/Reto_TiposDatos.dll
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.pdb
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/Reto_TiposDatos.genruntimeconfig.cache
+/workspaces/actividad-c-/Reto_TiposDatos/obj/Debug/net10.0/ref/Reto_TiposDatos.dll

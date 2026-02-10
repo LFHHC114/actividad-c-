@@ -1,0 +1,15 @@
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/bin/Debug/net10.0/Ejercicio3_Interpolacion
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/bin/Debug/net10.0/Ejercicio3_Interpolacion.deps.json
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/bin/Debug/net10.0/Ejercicio3_Interpolacion.runtimeconfig.json
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/bin/Debug/net10.0/Ejercicio3_Interpolacion.dll
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/bin/Debug/net10.0/Ejercicio3_Interpolacion.pdb
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.AssemblyInfoInputs.cache
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.AssemblyInfo.cs
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.csproj.CoreCompileInputs.cache
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.sourcelink.json
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.dll
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/refint/Ejercicio3_Interpolacion.dll
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.pdb
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/Ejercicio3_Interpolacion.genruntimeconfig.cache
+/workspaces/actividad-c-/Ejercicio3_Interpolacion/obj/Debug/net10.0/ref/Ejercicio3_Interpolacion.dll

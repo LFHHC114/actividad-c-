@@ -1,0 +1,15 @@
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/bin/Debug/net10.0/Ejercicio1_TiposDatos
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/bin/Debug/net10.0/Ejercicio1_TiposDatos.deps.json
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/bin/Debug/net10.0/Ejercicio1_TiposDatos.runtimeconfig.json
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/bin/Debug/net10.0/Ejercicio1_TiposDatos.dll
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/bin/Debug/net10.0/Ejercicio1_TiposDatos.pdb
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.AssemblyInfoInputs.cache
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.AssemblyInfo.cs
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.csproj.CoreCompileInputs.cache
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.sourcelink.json
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.dll
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/refint/Ejercicio1_TiposDatos.dll
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.pdb
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/Ejercicio1_TiposDatos.genruntimeconfig.cache
+/workspaces/actividad-c-/Ejercicio1_TiposDatos/obj/Debug/net10.0/ref/Ejercicio1_TiposDatos.dll

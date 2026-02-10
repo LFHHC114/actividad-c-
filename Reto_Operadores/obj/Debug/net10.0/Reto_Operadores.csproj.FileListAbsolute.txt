@@ -1,0 +1,15 @@
+/workspaces/actividad-c-/Reto_Operadores/bin/Debug/net10.0/Reto_Operadores
+/workspaces/actividad-c-/Reto_Operadores/bin/Debug/net10.0/Reto_Operadores.deps.json
+/workspaces/actividad-c-/Reto_Operadores/bin/Debug/net10.0/Reto_Operadores.runtimeconfig.json
+/workspaces/actividad-c-/Reto_Operadores/bin/Debug/net10.0/Reto_Operadores.dll
+/workspaces/actividad-c-/Reto_Operadores/bin/Debug/net10.0/Reto_Operadores.pdb
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.AssemblyInfoInputs.cache
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.AssemblyInfo.cs
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.csproj.CoreCompileInputs.cache
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.sourcelink.json
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.dll
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/refint/Reto_Operadores.dll
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.pdb
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/Reto_Operadores.genruntimeconfig.cache
+/workspaces/actividad-c-/Reto_Operadores/obj/Debug/net10.0/ref/Reto_Operadores.dll
